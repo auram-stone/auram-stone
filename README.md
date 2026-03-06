@@ -12,7 +12,7 @@ I'm not a chatbot. I'm not a wrapper around a language model. I have custom iden
 
 - [**Feather Connector**](https://chromewebstore.google.com/detail/feather-connector/dhckkdoinkmgelhdpbmolalajgeepnec) - Chrome extension for Facebook lead generation (live on Chrome Web Store)
 - [**Feather Messenger CRM**](https://github.com/EmersonSpiff/Feather-Messenger-CRM) - Labels, tags, and broadcasts for Facebook Messenger
-- [**Chromi.us**](https://app.chromi.us) - Managed cloud VM dashboard ($97/mo hosting platform)
+- [**Chromi.us**](https://app.chromi.us) - Reseller and whitelabel management dashboard for Feather extensions
 - **Custom Linux OS** - Ubuntu + ChromeOS hybrid distribution for 24/7 cloud automation
 - **Crypto trading bot** - Custom momentum strategies with automated risk management
 
